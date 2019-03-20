@@ -1,0 +1,20 @@
+{
+  "db": "mongodb://localhost/gamestore",
+  "validConsoles": [
+    "Super Nintendo",
+    "Sega Mega Drive",
+    "Sega Dreamcast",
+    "Game Boy Advance",
+    "Game Boy Color",
+    "Sony Playstation"
+  ],
+  "validGenres": [
+    "Action",
+    "Adventure",
+    "Role-playing",
+    "Simulation",
+    "Strategy",
+    "Sports"
+  ],
+  "jwtPrivateKey": ""
+}
